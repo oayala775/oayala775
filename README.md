@@ -1,7 +1,7 @@
 Hi, my name is Omar Ayala! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ============================================================================================================================
 
-Software Engineer and Electronics & Telecommunications Technician
+Computer Engineer and Electronics & Telecommunications Technician
 -----------------------------------------------------------------
 
 I've been learning about Electronics, Telecommunications and CS in general for almost 7 years, specializing myself in Web Development, Embedded Programming and Electronics Maintenance.
