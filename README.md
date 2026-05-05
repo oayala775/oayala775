@@ -7,8 +7,7 @@ Computer Engineer and Electronics & Telecommunications Technician
 I've been learning about Electronics, Telecommunications and CS in general for almost 7 years, specializing myself in Web Development, Embedded Programming and Electronics Maintenance.
 
 * 🌍  I'm based in Guadalajara
-* 🚀  I'm currently working on [My Reflex Portfolio](http://github.com/oayala775/ReflexWebPage)
-* 🧠  I'm learning Reflex, FastAPI, NumPy, SciKit
+* 🧠  I'm learning FastAPI, NumPy, SciKit
 
 ### Skills
 
